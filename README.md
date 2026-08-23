@@ -58,9 +58,9 @@ This project demonstrates the deployment of a static website using Azure Blob St
 
  
 
+- Azure Static Website Hosting Project.pdf
+
 - static_page _arm.html
 
 - template.json
-
-- Azure Static Website Hosting Project.pdf
 
