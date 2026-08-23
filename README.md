@@ -40,7 +40,7 @@ This project demonstrates the deployment of a static website using Azure Blob St
 
 3. Upload static website content
 
-4. Verfiy webpage functionality
+4. Verify webpage functionality
 
 5. Export ARM Template
 
